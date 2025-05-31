@@ -1,6 +1,6 @@
 {
-    "vocab_fp": "label_number.txt",
-    "img_folder": "images",
+    "vocab_fp": "train/number/label_number.txt",
+    "img_folder": "train/number/images",
     "devices": 1,
     "accelerator": "cpu",
     "epochs": 20,
