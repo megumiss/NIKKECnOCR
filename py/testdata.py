@@ -111,3 +111,4 @@ if __name__ == "__main__":
     OUTPUT_DIR = "D:\\PCR\\CnOCR-2.3.1\\img\\sp2"
     RESULT_FILE = "D:\\PCR\\CnOCR-2.3.1\\img\\results2.txt"
     main(INPUT_DIR, OUTPUT_DIR, RESULT_FILE)
+    
